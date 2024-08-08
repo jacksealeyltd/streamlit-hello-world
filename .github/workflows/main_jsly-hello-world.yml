@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'jsly-hello-world'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CBD3A04776974DCB8B6D0F78C96FDA38 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EF6306F4FF6441C194660565A766D6B5 }}
